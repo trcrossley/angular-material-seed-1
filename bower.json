@@ -1,0 +1,17 @@
+{
+  "name": "angular-seed-bower",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nikhildev/angular-seed",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "latest",
+    "angular-ui-router": "latest",
+    "angular-loading-bar": "latest",
+    "animate.css": "latest",
+    "moment": "latest",
+    "font-awesome": "latest",
+    "angular-material": "latest",
+    "foundation": "latest",
+    "bootstrap": "latest"
+  }
+}
